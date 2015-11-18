@@ -1,0 +1,19 @@
+﻿Build started 2015-11-03 14:50:26.
+     1>Project "C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\ParticleSimulation\ParticleSimulation.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ParticleSimulation (Konfliktkopia för SimpeLaptop 2015-08-24).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Code\Source\D3DApp.cpp
+         D3DApp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\Debug\ParticleSimulation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\Debug\ParticleSimulation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\Debug\ParticleSimulation.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\D3DApp.obj
+         Debug\main.obj
+         Debug\ParticleSystem.obj
+         Debug\Scene.obj
+         Debug\Timer.obj
+         ParticleSimulation.vcxproj -> C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\Debug\ParticleSimulation.exe
+     1>Done Building Project "C:\Users\Simpe\Dropbox\Bachelor Thesis\Bachelor Thesis\Implementation\ParticleSimulation\ParticleSimulation\ParticleSimulation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.11
